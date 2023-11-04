@@ -1,0 +1,33 @@
+/* h1{ 
+    color: red;
+} */
+
+/* hexcode */
+/* h1{
+    color: #234567;
+} */
+/* rgb */
+/* h1{
+    color: rgb(90, 65,10);
+} */
+/* hsl */
+/* h1{
+    color: hsl(0,0%,78%,);
+} */
+/* background color */
+/* body{
+    background-color: wheat;
+    color: red;
+} */
+/* div{
+    background-color: wheat;
+    color:tomato;
+} */
+/* opacity */
+/* #div1{
+    background-color: green;
+    opacity: 0.2;
+} */
+img{
+    opacity: 0.5;
+}
